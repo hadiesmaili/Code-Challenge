@@ -1,0 +1,5 @@
+{
+  "name": "Task Manager",
+  "description": "A high-performance, modular task management application built with React, Redux Toolkit, and @dnd-kit, featuring drag-and-drop reordering and internationalization.",
+  "requestFramePermissions": []
+}
